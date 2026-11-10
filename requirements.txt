@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+asyncio
+glob
+json
+logging
+os
+re
+time
+typing
+dotenv
+pydantic
+google
